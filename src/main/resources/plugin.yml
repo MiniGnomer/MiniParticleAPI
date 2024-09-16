@@ -1,0 +1,4 @@
+name: MiniParticleAPI
+version: '${project.version}'
+main: me.minignomer.miniparticleapi.MiniParticleAPI
+api-version: '1.21'
